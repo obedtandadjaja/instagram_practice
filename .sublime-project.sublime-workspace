@@ -1,0 +1,1272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"is",
+				"isLeftChild"
+			],
+			[
+				"Node",
+				"nodeToRemoveParent"
+			],
+			[
+				"nod",
+				"nodeToRemoveParent"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"curren",
+				"current_user\t(users_controller.rb)"
+			],
+			[
+				"posi",
+				"positionX"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pop",
+				"popTopTo"
+			],
+			[
+				"play",
+				"playQueue"
+			],
+			[
+				"cheese",
+				"cheesePositions"
+			],
+			[
+				"String",
+				"StringBuilder"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"child",
+				"childrenAreOrphans"
+			],
+			[
+				"resu",
+				"resultEmptySpotIndex"
+			],
+			[
+				"bike",
+				"bikeReservations"
+			],
+			[
+				"reserva",
+				"reservations.add"
+			],
+			[
+				"B",
+				"BikeReservation"
+			],
+			[
+				"res",
+				"reservations"
+			],
+			[
+				"current",
+				"currentRow"
+			],
+			[
+				"Compar",
+				"Comparators"
+			],
+			[
+				"Mann",
+				"MannyDashboard\t(_js_manny_dashboard_init.html.erb)"
+			],
+			[
+				"attacment",
+				"attachment_attributes"
+			],
+			[
+				"availab",
+				"availabilities"
+			],
+			[
+				"manny_job",
+				"manny_job_preference"
+			],
+			[
+				"nearb",
+				"nearby_mannies"
+			],
+			[
+				"avi",
+				"availability\t(manny.rb)"
+			],
+			[
+				"near",
+				"nearby_mannies"
+			],
+			[
+				"atta",
+				"attachment_params"
+			],
+			[
+				"attach",
+				"attachment_attributes"
+			],
+			[
+				"manny",
+				"manny_about_params"
+			],
+			[
+				"attac",
+				"attachment_attributes"
+			],
+			[
+				"show",
+				"showMissingDOBError"
+			],
+			[
+				"check",
+				"checkForMissingDOB"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"disable li",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"packagei",
+				"Package Control: Install Package"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"close",
+				"Close Other Tabs: Close all tabs except the active one"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"delete fil",
+				"ANF: Delete Current File"
+			],
+			[
+				"new f",
+				"ANF: New File"
+			],
+			[
+				"new file",
+				"ANF: New File"
+			],
+			[
+				"new fi",
+				"ANF: New File"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add All"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"",
+				"ANF: New File"
+			],
+			[
+				"n",
+				"ANF: New File"
+			],
+			[
+				"das",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"dash",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"clos",
+				"Close Other Tabs: Close all tabs except the active one"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"closeot",
+				"Close Other Tabs: Close all tabs except the active one"
+			],
+			[
+				"clipboard",
+				"Clipboard Manager: Previous"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"colorpi",
+				"Color Picker"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/obedtandadjaja/code/instagram/.eslintrc",
+		"/Users/obedtandadjaja/code/instagram/server.js",
+		"/Users/obedtandadjaja/code/instagram/.sublime-project",
+		"/Users/obedtandadjaja/code/instagram/.tern-project",
+		"/Users/obedtandadjaja/code/instagram/webpack-loaders.js",
+		"/Users/obedtandadjaja/code/instagram/.jshintrc",
+		"/Users/obedtandadjaja/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/obedtandadjaja/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/obedtandadjaja/Library/Application Support/Sublime Text 3/Packages/User/Tern.sublime-settings",
+		"/Users/obedtandadjaja/Library/Application Support/Sublime Text 3/Packages/User/Babel.sublime-settings",
+		"/Users/obedtandadjaja/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/obedtandadjaja/code/instagram/package.json",
+		"/Users/obedtandadjaja/code/instagram/webpack.config.js",
+		"/Users/obedtandadjaja/code/mymanny-new/app/interactors/lookup_mannies.rb",
+		"/Users/obedtandadjaja/code/mymanny-new/app/interactors/send_job.rb",
+		"/Users/obedtandadjaja/code/mymanny-new/app/models/attachment.rb",
+		"/Users/obedtandadjaja/code/mymanny-new/app/models/ability.rb",
+		"/Users/obedtandadjaja/code/express/examples/auth/views/head.ejs",
+		"/Users/obedtandadjaja/code/express/examples/auth/views/foot.ejs",
+		"/Users/obedtandadjaja/Desktop/BST.java",
+		"/Users/obedtandadjaja/code/tenun/assets/css/main.css",
+		"/Users/obedtandadjaja/code/tenun/index.html",
+		"/Users/obedtandadjaja/code/test_the_water/app/controllers/user/registrations_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/controllers/users_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/models/business.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/models/package.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/home/index.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/config/routes.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/properties/index.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/app/controllers/properties_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/controllers/packages_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_water/db/migrate/20170307041725_create_properties.rb",
+		"/Users/obedtandadjaja/code/test_the_water/db/migrate/20170225064559_create_packages.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/properties/_form.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/properties/show.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/app/controllers/businesses_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/controllers/home_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/models/property.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/properties/show.json.jbuilder",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/properties/index.json.jbuilder",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/properties/_property.json.jbuilder",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/resources/_form.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/db/migrate/20170307040857_create_resources.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/models/resource.rb",
+		"/Users/obedtandadjaja/code/Advising/config/application.rb",
+		"/Users/obedtandadjaja/code/test_the_water/Gemfile",
+		"/Users/obedtandadjaja/code/Advising/config/environments/development.rb",
+		"/Users/obedtandadjaja/code/Advising/config/environments/production.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/businesses/edit.html.erb",
+		"/Users/obedtandadjaja/code/Advising/config/routes.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/assets/_asset.json.jbuilder",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/assets/show.json.jbuilder",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/assets/index.json.jbuilder",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/assets/_form.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/assets/new.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/app/controllers/assets_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/businesses/_form.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/packages/_form.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/devise/registrations/new.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/users/_form.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/app/views/layouts/application.html.erb",
+		"/Users/obedtandadjaja/code/test_the_water/config/environments/development.rb",
+		"/Users/obedtandadjaja/code/test_the_water/db/migrate/20170225063000_create_users.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/models/asset.rb",
+		"/Users/obedtandadjaja/code/test_the_water/app/models/user.rb",
+		"/Users/obedtandadjaja/code/test_the_water/config/database.yml",
+		"/Users/obedtandadjaja/code/test_the_water/db/migrate/20170225064523_create_businesses.rb",
+		"/Users/obedtandadjaja/code/test_the_water/db/migrate/20170225064632_create_assets.rb",
+		"/Users/obedtandadjaja/code/mymanny-new/db/migrate/20150805200731_create_jobs.rb",
+		"/Users/obedtandadjaja/code/mymanny-new/config/database.yml",
+		"/Users/obedtandadjaja/code/test_the_water/.env",
+		"/Users/obedtandadjaja/code/mymanny-new/.env",
+		"/Users/obedtandadjaja/code/test_the_market/Gemfile",
+		"/Users/obedtandadjaja/code/test_the_market/db/seeds.rb",
+		"/Users/obedtandadjaja/code/test_the_market/config/database.yml",
+		"/Users/obedtandadjaja/code/test_the_market/.env",
+		"/Users/obedtandadjaja/code/test_the_market/app/models/user.rb",
+		"/Users/obedtandadjaja/code/test_the_market/app/models/asset.rb",
+		"/Users/obedtandadjaja/code/test_the_market/app/controllers/assets_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_market/app/controllers/businesses_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_market/app/controllers/home_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_market/app/controllers/packages_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_market/db/migrate/20170225061956_create_yolos.rb",
+		"/Users/obedtandadjaja/code/test_the_market/app/models/business.rb",
+		"/Users/obedtandadjaja/code/test_the_market/db/migrate/20170225061138_create_assets.rb",
+		"/Users/obedtandadjaja/code/test_the_market/db/migrate/20170225052645_create_assets.rb",
+		"/Users/obedtandadjaja/code/test_the_market/db/migrate/20170225050932_create_packages.rb",
+		"/Users/obedtandadjaja/code/test_the_market/db/migrate/20170225061108_create_packages.rb",
+		"/Users/obedtandadjaja/code/test_the_market/db/migrate/20170225061026_create_businesses.rb",
+		"/Users/obedtandadjaja/code/test_the_market/db/migrate/20170225050931_create_businesses.rb",
+		"/Users/obedtandadjaja/code/test_the_market/config/routes.rb",
+		"/Users/obedtandadjaja/code/test_the_market/app/views/layouts/application.html.erb",
+		"/Users/obedtandadjaja/code/test_the_market/app/views/home/index.html.erb",
+		"/Users/obedtandadjaja/code/test_the_market/app/models/package.rb",
+		"/Users/obedtandadjaja/code/test_the_market/db/migrate/20170225045428_create_users.rb",
+		"/Users/obedtandadjaja/code/test_the_market/db/migrate/20170225050909_create_images.rb",
+		"/Users/obedtandadjaja/code/test_the_market/app/models/image.rb",
+		"/Users/obedtandadjaja/code/mymanny-new/db/migrate/20150804151136_create_languages.rb",
+		"/Users/obedtandadjaja/code/test_the_market/app/views/home_controller/index.html.erb",
+		"/Users/obedtandadjaja/code/test_the_market/app/controllers/home_controller_controller.rb",
+		"/Users/obedtandadjaja/code/test_the_market/config/environments/development.rb",
+		"/Users/obedtandadjaja/code/flappy_bird/flappy_bird.js",
+		"/Users/obedtandadjaja/code/tower_of_hanoi/index.html",
+		"/Users/obedtandadjaja/code/obedtandadjaja.github.io/flappy_bird.html",
+		"/Users/obedtandadjaja/code/flappy_bird/index.html",
+		"/Users/obedtandadjaja/code/obedtandadjaja.github.io/index.html",
+		"/Users/obedtandadjaja/code/mymanny-new/config/deploy.rb",
+		"/Users/obedtandadjaja/code/mymanny-new/Gemfile",
+		"/Users/obedtandadjaja/code/obedtandadjaja.github.io/flappy_bird.js",
+		"/Users/obedtandadjaja/code/snake/snake.js",
+		"/Users/obedtandadjaja/code/matrix_rain/matrix_rain.js",
+		"/Users/obedtandadjaja/code/snake/snake.html",
+		"/Users/obedtandadjaja/code/matrix_rain/matrix_rain.html",
+		"/Users/obedtandadjaja/code/obedtandadjaja.github.io/snake.html",
+		"/Users/obedtandadjaja/code/astar_path_generator/astar_path_generator.html",
+		"/Users/obedtandadjaja/code/obedtandadjaja.github.io/dijkstra_path_generator.html",
+		"/Users/obedtandadjaja/code/interview_misc/dijkstra/Node.java",
+		"/Users/obedtandadjaja/code/interview_misc/Searches.java",
+		"/Users/obedtandadjaja/code/interview_misc/BT.java",
+		"/Users/obedtandadjaja/code/interview_misc/TomJerry.java",
+		"/Users/obedtandadjaja/code/interview_misc/StackSort.java",
+		"/Users/obedtandadjaja/code/interview_misc/PriorityLinkedList.java",
+		"/Users/obedtandadjaja/code/interview_misc/ChunkedPalindrome.java",
+		"/Users/obedtandadjaja/code/interview_misc/towerOfHanoi/index.html",
+		"/Users/obedtandadjaja/code/interview_misc/LongestStringDictionary.java",
+		"/Users/obedtandadjaja/code/interview_misc/BTLongestConsecutivePath.java",
+		"/Users/obedtandadjaja/code/interview_misc/BTLongestConsecutivePathRecursive.java",
+		"/Users/obedtandadjaja/code/interview_misc/NTreeDelete.java"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"parts",
+			"$(this)",
+			"padding: 5px",
+			"url",
+			"br",
+			"sifonn",
+			"left.",
+			"nodeToRemove",
+			"curr.right",
+			"add",
+			"preorder",
+			"url",
+			"td",
+			"recipe",
+			"recipes",
+			"Recipe",
+			"text_field",
+			">\n",
+			"text_field",
+			"test_the_water",
+			"mymanny",
+			"charType",
+			"tail",
+			".add",
+			"head",
+			"this",
+			"d.",
+			"d.r",
+			"t.co",
+			"t.c",
+			".c",
+			"t.r",
+			"head",
+			"previous",
+			"tempG",
+			"unvisitedNeighbors[i]",
+			"visited",
+			" j",
+			" i",
+			"j",
+			"i",
+			"left",
+			"moves+1",
+			"1",
+			".clone()",
+			"85%",
+			"stackAmount",
+			"this",
+			"90",
+			"this.",
+			"sleep",
+			"_this",
+			"traverse",
+			"_this",
+			"this",
+			"buffer",
+			" =",
+			"var ",
+			"100px",
+			"32",
+			"child",
+			"TreeNode",
+			"child",
+			", count",
+			"i",
+			"\\n",
+			"+",
+			"dll.head.position[0]",
+			"dll.head.position[1]",
+			"Integer.parseInt(args[0])",
+			"exp",
+			"t",
+			"[",
+			"[i]",
+			"colIndex",
+			"bool",
+			"root",
+			"bintree2listUtil",
+			"curr",
+			"set, ",
+			"-1",
+			"10",
+			"denoms",
+			"6",
+			"3",
+			"6",
+			"10",
+			"100",
+			"100000",
+			"ways",
+			"list",
+			"countWays",
+			"j",
+			"-",
+			"({{999}}){{999}}-{{9999}}",
+			"Phone is not",
+			"phone",
+			"Phone is not in the right format",
+			"disabled",
+			"options",
+			"manny_profile",
+			"Are you a Christian?",
+			"manny_about.age",
+			"FamilyDashboard",
+			"setup",
+			"db:setup",
+			"S3_BUCKET",
+			"avatar",
+			"secret_key",
+			"age",
+			"image",
+			"_filter",
+			"products",
+			"sports",
+			"sport",
+			"scope",
+			"sequential_user",
+			"post_job",
+			"\"",
+			"crop_",
+			"asset",
+			"* ratio",
+			"fields",
+			"\"",
+			"fillDropped",
+			"dataArray",
+			"file",
+			"[index]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"({{999}}) {{999}}-{{9999}}",
+			"AWS_SECRET_KEY",
+			"S3_BUCKET",
+			"manny.dob ? get_age(manny.dob) : manny_about.age",
+			"",
+			"image"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clipboard_manager":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": ".sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"familyinformation",
+				"app/models/family_information.rb"
+			],
+			[
+				"userscon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"home",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"homeco",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"applicationcont",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"propertiescon",
+				"app/controllers/properties_controller.rb"
+			],
+			[
+				"proper",
+				"app/models/property.rb"
+			],
+			[
+				"models/asset",
+				"test_the_water/app/models/asset.rb"
+			],
+			[
+				"application",
+				"Advising/config/application.rb"
+			],
+			[
+				"appl",
+				"Advising/config/application.rb"
+			],
+			[
+				"produc",
+				"Advising/config/environments/production.rb"
+			],
+			[
+				"development.rb",
+				"Advising/config/environments/development.rb"
+			],
+			[
+				"snakegame",
+				"SnakeGame.java"
+			],
+			[
+				"binar",
+				"BinarySearch.java"
+			],
+			[
+				"stack",
+				"StackSort.java"
+			],
+			[
+				"chu",
+				"ChunkedPalindrome.java"
+			],
+			[
+				"delete",
+				"NTreeDelete.java"
+			],
+			[
+				"btlong",
+				"BTLongestConsecutivePath.java"
+			],
+			[
+				"dictionar",
+				"LongestStringDictionary.java"
+			],
+			[
+				"bike",
+				"BikeReservations.java"
+			],
+			[
+				"ab",
+				"AbsolutePathImageDirectory.java"
+			],
+			[
+				"fast",
+				"FastExponentiation.java"
+			],
+			[
+				"palidnrome",
+				"LargestPalindrome.java"
+			],
+			[
+				"palind",
+				"CircularPalindrome.java"
+			],
+			[
+				"palindrome",
+				"LargestPalindrome.java"
+			],
+			[
+				"median",
+				"HeapRunningMedian.java"
+			],
+			[
+				"cityzip",
+				"db/seeds/city_zip.seeds.rb"
+			],
+			[
+				"en",
+				"config/locales/en.yml"
+			],
+			[
+				"familyregistra",
+				"app/views/families/_family_registration_fields.html.erb"
+			],
+			[
+				"familyprofile",
+				"app/views/families/_family_profile_fields.html.erb"
+			],
+			[
+				"editfami",
+				"app/assets/javascripts/MyCare/families/edit_family_handler.js"
+			],
+			[
+				"editmann",
+				"app/assets/javascripts/MyCare/mannies/edit_manny_handler.js"
+			],
+			[
+				"initializerasse",
+				"config/initializers/assets.rb"
+			],
+			[
+				"formatter",
+				"vendor/assets/javascripts/jquery.formatter.min.js"
+			],
+			[
+				"manny",
+				"app/models/manny.rb"
+			],
+			[
+				"mannydeco",
+				"app/decorators/manny_decorator.rb"
+			],
+			[
+				"applicationhelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"en.",
+				"config/locales/en.yml"
+			],
+			[
+				"manniesedit",
+				"app/views/mannies/edit.html.erb"
+			],
+			[
+				"en.yml",
+				"config/locales/en.yml"
+			],
+			[
+				"mannypro",
+				"app/views/mannies/_manny_profile_fields.html.erb"
+			],
+			[
+				"mannyprofilef",
+				"app/views/components/manny_profile_fields.slim"
+			],
+			[
+				"homecont",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"mannydashboard",
+				"app/views/home/_manny_dashboard.html.erb"
+			],
+			[
+				"mannydash",
+				"app/views/home/_manny_dashboard.html.erb"
+			],
+			[
+				"city_zip",
+				"app/admin/city_zip_coordinate.rb"
+			],
+			[
+				"setup",
+				"bin/setup"
+			],
+			[
+				"development",
+				"config/environments/development.rb"
+			],
+			[
+				"environment/prod",
+				"config/environments/production.rb"
+			],
+			[
+				"secrets",
+				"config/secrets.yml"
+			],
+			[
+				"environmentstagi",
+				"config/environments/staging.rb"
+			],
+			[
+				"paperclip",
+				"config/initializers/paperclip.rb"
+			],
+			[
+				"devise",
+				"config/initializers/devise.rb"
+			],
+			[
+				"initializerpaper",
+				"config/initializers/paperclip.rb"
+			],
+			[
+				"gitigno",
+				".gitignore"
+			],
+			[
+				"gemfile",
+				"Gemfile.lock"
+			],
+			[
+				"applicationnot",
+				"app/views/user_mailer/application_notify_family.html.erb"
+			],
+			[
+				"applicationnoti",
+				"app/interactors/application_notify_family.rb"
+			],
+			[
+				"envirnmentprod",
+				"config/environments/production.rb"
+			],
+			[
+				"environment/sta",
+				"config/environments/staging.rb"
+			],
+			[
+				"initialicarr",
+				"config/initializers/carrier_wave.rb"
+			],
+			[
+				"gitignore",
+				".gitignore"
+			],
+			[
+				"config/se",
+				"config/secrets.yml"
+			],
+			[
+				"homecontr",
+				"spec/controllers/home_controller_spec.rb"
+			],
+			[
+				"mannies",
+				"spec/factories/mannies.rb"
+			],
+			[
+				"custo",
+				"lib/paperclip_processors/custom_cropper.rb"
+			],
+			[
+				"attac",
+				"app/models/attachment.rb"
+			],
+			[
+				"attach",
+				"app/models/attachment.rb"
+			],
+			[
+				"update",
+				"app/interactors/update_attachment.rb"
+			],
+			[
+				"mannyaboutfi",
+				"app/views/components/manny_about_fields.slim"
+			],
+			[
+				"mannyaboutscont",
+				"app/controllers/manny_abouts_controller.rb"
+			],
+			[
+				"mannyaboutspec",
+				"spec/models/manny_about_spec.rb"
+			],
+			[
+				"mannyrefere",
+				"spec/factories/manny_references.rb"
+			],
+			[
+				"mannyabouts",
+				"spec/factories/manny_abouts.rb"
+			],
+			[
+				"mannyaboutscontr",
+				"spec/controllers/manny_abouts_controller_spec.rb"
+			],
+			[
+				"homecontroller",
+				"spec/controllers/home_controller_spec.rb"
+			],
+			[
+				"admin/manny",
+				"app/admin/manny.rb"
+			],
+			[
+				"mannyaboutfiel",
+				"app/views/components/manny_about_fields.slim"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"mannyprofilefie",
+				"app/views/components/manny_profile_fields.slim"
+			],
+			[
+				"mannyprofile",
+				"app/views/components/manny_profile.slim"
+			],
+			[
+				"_family",
+				"app/views/home/_family_dashboard.html.erb"
+			],
+			[
+				"mannyaboutfileds",
+				"app/views/components/manny_about_fields.slim"
+			],
+			[
+				"job",
+				"app/models/job.rb"
+			],
+			[
+				"filtera",
+				"app/models/concerns/filterable.rb"
+			],
+			[
+				"mannyjobprefer",
+				"app/models/manny_job_preference.rb"
+			],
+			[
+				"mannyaboutsedit",
+				"app/views/manny_abouts/edit.slim"
+			],
+			[
+				"familydashboard",
+				"app/views/home/_family_dashboard.html.erb"
+			],
+			[
+				"manny_refere",
+				"spec/factories/manny_references.rb"
+			],
+			[
+				"factories/mann",
+				"spec/factories/mannies.rb"
+			],
+			[
+				"mannyaboutcon",
+				"app/controllers/manny_abouts_controller.rb"
+			],
+			[
+				"mannyaboutsp",
+				"spec/models/manny_about_spec.rb"
+			],
+			[
+				"mannyspec",
+				"spec/models/manny_spec.rb"
+			],
+			[
+				"attachmentcont",
+				"spec/controllers/attachment_controller_spec.rb"
+			],
+			[
+				"attachmen",
+				"app/controllers/attachments_controller.rb"
+			],
+			[
+				"seedsmann",
+				"db/seeds/development/mannies.seeds.rb"
+			],
+			[
+				"home/mannyda",
+				"app/assets/javascripts/home/manny_dashboard_home_handler.js"
+			],
+			[
+				"familydas",
+				"app/views/home/_family_dashboard.html.erb"
+			],
+			[
+				"mannyabout",
+				"app/models/manny_about.rb"
+			],
+			[
+				"mannyjob",
+				"app/models/manny_job.rb"
+			],
+			[
+				"sendjobemailsspe",
+				"spec/interactors/send_job_emails_spec.rb"
+			],
+			[
+				"mann",
+				"app/models/manny.rb"
+			],
+			[
+				"sendjobeam",
+				"app/interactors/send_job_emails.rb"
+			],
+			[
+				"factories/manni",
+				"spec/factories/mannies.rb"
+			],
+			[
+				"createmannyjobsspec",
+				"spec/interactors/create_manny_jobs_spec.rb"
+			],
+			[
+				"createmannyjobs",
+				"app/interactors/create_manny_jobs.rb"
+			],
+			[
+				"lookupnear",
+				"app/interactors/lookup_nearby_mannies.rb"
+			],
+			[
+				"familypostjob",
+				"app/interactors/family_post_job.rb"
+			],
+			[
+				"jobscon",
+				"app/controllers/jobs_controller.rb"
+			],
+			[
+				"family",
+				"app/views/components/family_billing_form.slim"
+			],
+			[
+				"mannyaboutsc",
+				"app/controllers/manny_abouts_controller.rb"
+			],
+			[
+				"createfamilyuser",
+				"app/interactors/create_family_user.rb"
+			],
+			[
+				"registerstanda",
+				"app/interactors/register_standard_family.rb"
+			],
+			[
+				"updateatt",
+				"app/interactors/update_attachment.rb"
+			],
+			[
+				"updatemanny",
+				"app/interactors/update_manny_about.rb"
+			],
+			[
+				"atta",
+				"app/models/attachment.rb"
+			],
+			[
+				"updateatta",
+				"app/interactors/update_attachment.rb"
+			],
+			[
+				"updateat",
+				"app/interactors/update_attachment.rb"
+			],
+			[
+				"initializers/paper",
+				"config/initializers/paperclip.rb"
+			],
+			[
+				"editattach",
+				"app/assets/javascripts/MyCare/attachments/edit_attachment_handler.js"
+			],
+			[
+				"_js_mannyabout",
+				"app/views/manny_abouts/_js_manny_abouts_edit_init.html.erb"
+			],
+			[
+				"attachmentsedit",
+				"app/views/attachments/edit.html.erb"
+			],
+			[
+				"mannyaboutfields",
+				"app/views/components/manny_about_fields.slim"
+			],
+			[
+				"init.js",
+				"app/assets/javascripts/init.js"
+			],
+			[
+				"attachmentscon",
+				"app/controllers/attachments_controller.rb"
+			],
+			[
+				"custom",
+				"lib/paperclip_processors/custom_cropper.rb"
+			],
+			[
+				"env",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

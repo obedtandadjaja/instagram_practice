@@ -1,0 +1,16 @@
+{
+    "extends": "google",
+    "env": {
+        "es6": true,
+        "node": true,
+        "browser": true
+    },
+    "ecmaFeatures": {
+        "jsx": true,
+        "modules": true,
+        "experimentalObjectRestSpread": true
+    },
+    "parserOptions": {
+        "sourceType": "module"
+    }
+}
