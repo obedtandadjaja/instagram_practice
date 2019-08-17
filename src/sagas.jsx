@@ -32,7 +32,7 @@ const postToServer = (url) => {
 };
 
 const pick = () => {
-  return new Promise(function (resolve, reject) {
+  return new Promise(function(resolve, reject) {
     filepicker.pick(
       {
         mimetype: 'image/*',
